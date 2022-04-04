@@ -57,3 +57,5 @@ G --> |fail| O[Terrible Result]
   - Terrible, you end up in the far western part of the city, in a hamlet
   - as you break through the treeline you begin to make out various buildings stretching off into the distance and as you get closer you begin to see various cranes and shipping crates, barrels, people (doing thing based on time of day)
 - Where are you staying (camping check determines if they’re able to find a goodish place to sleep)
+- Pirn, town
+- The Proud Sailor, inn
