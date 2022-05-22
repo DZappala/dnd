@@ -29,10 +29,10 @@ Last we left off... fighting off a hoarder of will-o-wisps, your crew narrowly e
 
 ```mermaid
 graph LR
-A("Travel</br> (all constitution save)")
-A --> |pass| B("Orientation</br> (inteligence)<br> Nature")
+A("Travel</br> (constitution)")
+A --> |pass| B("Orientation</br> (inteligence)")
 A --> |fail| C(Orientation)
-B --> |pass| D("Camping</br> (wisdom)<br> Survival")
+B --> |pass| D("Camping</br> (wisdom)")
 B --> |fail| E(Camping)
 C --> |pass| F(Camping)
 C --> |fail| G(Camping) 
@@ -57,3 +57,5 @@ G --> |fail| O[Terrible Result]
   - Terrible, you end up in the far western part of the city, in a hamlet
   - as you break through the treeline you begin to make out various buildings stretching off into the distance and as you get closer you begin to see various cranes and shipping crates, barrels, people (doing thing based on time of day)
 - Where are you staying (camping check determines if they’re able to find a goodish place to sleep)
+- Pirn, town
+- The Proud Sailor, inn
