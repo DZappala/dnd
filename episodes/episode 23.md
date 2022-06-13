@@ -26,5 +26,5 @@ Last we left off. Our adventurers explored the last few leads they had in the ci
       - The plans and signatures of Relorun Industries, sitting atop a table
       - The signatures of Sor’s father and crest of the House of Asha
         - Dear Mdm. Birdwell, enclosed is the sum agreed to for the progression of the arc project. The contract binding this agreement entitles you to use these funds for the purpose of accuring and transporting materials for the Arc project, and any other means of use will result in your immediate death. This Judgment of execution vested in my by the High Empress, His holy servant, Thyra Margazia. (Signed:) Alistaire of House Asha 
-- They go fight the monster by air or by sea.
+      - by doing the factory thing, they will offer junk to make wings :)
 
